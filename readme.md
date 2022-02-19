@@ -2,4 +2,5 @@ Name: Chan Tai Man
 ID: 20000000
 
 
-link: https://drive.google.com/file/d/1grtuy4uqAmC6VmsyDqotloTs0gk0VQJW/view?usp=sharing
+link: 
+[](/Lab1/Screenshot 2022-02-19 161730.png)
